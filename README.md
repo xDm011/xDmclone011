@@ -7,6 +7,7 @@
 This tool is only for educational purpose. The developer is not responsible for any abuse of it.
 
 [+] Installation
+
 👇👇👇👇👇
 
 apt update
